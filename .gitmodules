@@ -1,0 +1,6 @@
+[submodule "delegation-explorer-backend"]
+	path = delegation-explorer-backend
+	url = https://github.com/AskBid/delegations-explorer-backend
+[submodule "delegation-explorer-frontend"]
+	path = delegation-explorer-frontend
+	url = https://github.com/AskBid/delegations-explorer-frontend
